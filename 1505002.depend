@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1462905562 source:c:\users\tanveer muttaqueen\desktop\igraphics\1505002\main.cpp
+	"iGraphics.h"
+
+1462896387 c:\users\tanveer muttaqueen\desktop\igraphics\1505002\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
